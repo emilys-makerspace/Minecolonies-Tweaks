@@ -1,7 +1,7 @@
 {
   "required": false,
   "minVersion": "0.8",
-  "package": "dev.minecoloniestweaks.mixin",
+  "package": "ca.emilybelnavis.mcmods.minecoloniestweaks.mixin",
   "compatibilityLevel": "JAVA_21",
   "mixins": [
     "CitizenDataMixin",

@@ -8,3 +8,6 @@ GNU General Public License, version 3 or (at your option) any later version.
 The package namespace, mod identifier, metadata, and integration points were changed for
 MineColonies Tweaks. MineColonies, Structurize, BlockUI, Domum Ornamentum, and MultiPiston
 remain the work of their respective authors and are not bundled with this project.
+
+Voice Expanded code and voice assets are incorporated from Emily’s MineColonies Voice Expanded.
+Its MIT source notice and recording terms are preserved in `licenses/voice-expanded-MIT.txt`.

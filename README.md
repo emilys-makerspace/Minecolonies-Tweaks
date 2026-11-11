@@ -71,3 +71,7 @@ render checks in a disposable world. Portable project context is in `.codex/`.
 [MineColonies Vanilla Tweaks](https://github.com/projethub42-creator/minecolonies-vanilla-tweaks),
 also licensed under GPL-3.0-or-later. Dependencies retain their respective licenses. Unofficial;
 not affiliated with LDT Team.
+
+### Expanded citizen voices
+
+Includes the Voice Expanded recordings, English and French voice sets, persistent random assignments, and manual voice selection. Open an adult citizen’s screen and choose **Voice & Language** (or use `/colonistvoice <entity UUID>` nearby). Changes require colony management permission. Install Tweaks on the server and every client, and remove the standalone Voice Expanded jar. Existing voice assignments and custom catalogues remain compatible. See [custom voice packs](docs/voice-packs.md).

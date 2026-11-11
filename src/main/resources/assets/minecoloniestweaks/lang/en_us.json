@@ -1078,5 +1078,10 @@
   "minecoloniestweaks.names.list.dwarves": "Dwarves",
   "minecoloniestweaks.names.list.orcs": "Orcs",
   "minecoloniestweaks.hut.res.supply_all": "Supply all",
-  "minecoloniestweaks.hut.res.supply_all_hint": "Supply all needed items you carry to this hut."
+  "minecoloniestweaks.hut.res.supply_all_hint": "Supply all needed items you carry to this hut.",
+  "minecoloniestweaks.citizen.voice": "Voice & Language",
+  "minecoloniestweaks.citizen.voice_button": "Voices",
+  "minecoloniestweaks.voice.random": "Random voice",
+  "minecoloniestweaks.voice.previous": "Previous page",
+  "minecoloniestweaks.voice.next": "Next page"
 }

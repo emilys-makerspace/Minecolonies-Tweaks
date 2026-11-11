@@ -1,0 +1,209 @@
+[
+  {
+    "id": "mark_en",
+    "name": "Mark",
+    "gender": "male",
+    "language": "EN_NZ",
+    "voice_id": "rqqwhOVfRQlKcUmG0Q18",
+    "accent": "New Zealand",
+    "display_label": "Mark — New Zealand — EN_NZ"
+  },
+  {
+    "id": "carolina_en",
+    "name": "Carolina",
+    "gender": "female",
+    "language": "EN_US",
+    "voice_id": "VCUa8W1mPO0QcgrSewvs",
+    "accent": "New York",
+    "display_label": "Carolina — New York — EN_US"
+  },
+  {
+    "id": "becca_en",
+    "name": "Becca",
+    "gender": "female",
+    "language": "EN_NZ",
+    "voice_id": "XcScRctIXQsuUPQQwzsz",
+    "accent": "New Zealand",
+    "display_label": "Becca — New Zealand — EN_NZ"
+  },
+  {
+    "id": "emily_en",
+    "name": "Emily",
+    "gender": "female",
+    "language": "EN_AU",
+    "voice_id": "p43fx6U8afP2xoq1Ai9f",
+    "accent": "Australia",
+    "display_label": "Emily — Australia — EN_AU"
+  },
+  {
+    "id": "scotty_en",
+    "name": "Scotty",
+    "gender": "male",
+    "language": "EN_AU",
+    "voice_id": "PHu8g8qpgxBEhHYfNhFa",
+    "accent": "Australia",
+    "display_label": "Scotty — Australia — EN_AU"
+  },
+  {
+    "id": "brittney_en",
+    "name": "Brittney",
+    "gender": "female",
+    "language": "EN_CA",
+    "voice_id": "BBGL1mJ66fANrjWTOM5c",
+    "accent": "Canada",
+    "display_label": "Brittney — Canada — EN_CA"
+  },
+  {
+    "id": "patrick_fr",
+    "name": "Patrick",
+    "gender": "male",
+    "language": "FR_CA",
+    "voice_id": "lpWJhr15teNWHhRqdTOQ",
+    "accent": "Québec",
+    "display_label": "Patrick — Québec — FR_CA"
+  },
+  {
+    "id": "patrick_en",
+    "name": "Patrick",
+    "gender": "male",
+    "language": "EN_CA",
+    "voice_id": "lpWJhr15teNWHhRqdTOQ",
+    "accent": "Québec",
+    "display_label": "Patrick — Québec — EN_CA"
+  },
+  {
+    "id": "marie_line_fr",
+    "name": "Marie Line",
+    "gender": "female",
+    "language": "FR_CA",
+    "voice_id": "u5l0VNCfzO5oqrKTuA1e",
+    "accent": "Québec",
+    "display_label": "Marie Line — Québec — FR_CA"
+  },
+  {
+    "id": "marie_line_en",
+    "name": "Marie Line",
+    "gender": "female",
+    "language": "EN_CA",
+    "voice_id": "u5l0VNCfzO5oqrKTuA1e",
+    "accent": "Québec",
+    "display_label": "Marie Line — Québec — EN_CA"
+  },
+  {
+    "id": "claudia_fr",
+    "name": "Claudia",
+    "gender": "female",
+    "language": "FR_CA",
+    "voice_id": "WW0JfNPk5DgcQdM0d6X6",
+    "accent": "Québec",
+    "display_label": "Claudia — Québec — FR_CA"
+  },
+  {
+    "id": "claudia_en",
+    "name": "Claudia",
+    "gender": "female",
+    "language": "EN_CA",
+    "voice_id": "WW0JfNPk5DgcQdM0d6X6",
+    "accent": "Québec",
+    "display_label": "Claudia — Québec — EN_CA"
+  },
+  {
+    "id": "julie_fr",
+    "name": "Julie",
+    "gender": "female",
+    "language": "FR_CA",
+    "voice_id": "noFfZd5hWSczK22nwc12",
+    "accent": "Québec",
+    "display_label": "Julie — Québec — FR_CA"
+  },
+  {
+    "id": "julie_en",
+    "name": "Julie",
+    "gender": "female",
+    "language": "EN_CA",
+    "voice_id": "noFfZd5hWSczK22nwc12",
+    "accent": "Québec",
+    "display_label": "Julie — Québec — EN_CA"
+  },
+  {
+    "id": "kasandra_fr",
+    "name": "Kasandra",
+    "gender": "female",
+    "language": "FR_CA",
+    "voice_id": "GMiYOSKrjrtKjU1G8xyM",
+    "accent": "Québec",
+    "display_label": "Kasandra — Québec — FR_CA"
+  },
+  {
+    "id": "kasandra_en",
+    "name": "Kasandra",
+    "gender": "female",
+    "language": "EN_CA",
+    "voice_id": "GMiYOSKrjrtKjU1G8xyM",
+    "accent": "Québec",
+    "display_label": "Kasandra — Québec — EN_CA"
+  },
+  {
+    "id": "alex_en",
+    "name": "Alex",
+    "gender": "male",
+    "language": "EN_CA",
+    "voice_id": "9fEeC7FrzKJWvKjl4Rrc",
+    "accent": "Québec",
+    "display_label": "Alex — Québec — EN_CA"
+  },
+  {
+    "id": "mathieu_fr",
+    "name": "Mathieu",
+    "gender": "male",
+    "language": "FR_CA",
+    "voice_id": "ea8mX8XjQt6IYaKiIshC",
+    "accent": "Québec",
+    "display_label": "Mathieu — Québec — FR_CA"
+  },
+  {
+    "id": "mathieu_en",
+    "name": "Mathieu",
+    "gender": "male",
+    "language": "EN_CA",
+    "voice_id": "ea8mX8XjQt6IYaKiIshC",
+    "accent": "Québec",
+    "display_label": "Mathieu — Québec — EN_CA"
+  },
+  {
+    "id": "frederic_fr",
+    "name": "Frédéric",
+    "gender": "male",
+    "language": "FR_CA",
+    "voice_id": "gW4rAL1yZraX3mczI4tx",
+    "accent": "Québec",
+    "display_label": "Frédéric — Québec — FR_CA"
+  },
+  {
+    "id": "frederic_en",
+    "name": "Frédéric",
+    "gender": "male",
+    "language": "EN_CA",
+    "voice_id": "gW4rAL1yZraX3mczI4tx",
+    "accent": "Québec",
+    "display_label": "Frédéric — Québec — EN_CA"
+  },
+  {
+    "id": "jerry_b_en",
+    "name": "Jerry B.",
+    "gender": "male",
+    "language": "EN_US",
+    "voice_id": "QzTKubutNn9TjrB7Xb2Q",
+    "accent": "New York",
+    "display_label": "Jerry B. — New York — EN_US"
+  },
+  {
+    "id": "chadwitch_en",
+    "name": "Chadwitch",
+    "gender": "male",
+    "language": "EN_CA",
+    "voice_id": "eadgjmk4R4uojdsheG9t",
+    "accent": "Alberta",
+    "display_label": "Chadwitch — Alberta — EN_CA"
+  }
+]

@@ -1,0 +1,15 @@
+<window size="260 244" lightbox="false">
+ <image source="minecolonies:textures/gui/citizen/colonist_paper.png" pos="0 0" size="260 244"/>
+ <text pos="10 10" size="240 14" textalign="MIDDLE" color="black" label="Voice &amp; Language"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="random" pos="12 30" size="236 20" label="Random voice"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="voice_0" pos="12 56" size="236 20"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="voice_1" pos="12 78" size="236 20"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="voice_2" pos="12 100" size="236 20"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="voice_3" pos="12 122" size="236 20"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="voice_4" pos="12 144" size="236 20"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="voice_5" pos="12 166" size="236 20"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="previous" pos="12 194" size="82 20" label="Previous"/>
+ <text id="page" pos="96 197" size="68 14" textalign="MIDDLE" color="black"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="next" pos="166 194" size="82 20" label="Next"/>
+ <button source="minecolonies:textures/gui/citizen/colonist_button_big.png" color="black" id="back" pos="88 218" size="84 20" label="Back"/>
+</window>

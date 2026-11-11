@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "ca.emilybelnavis.mcmods.minecoloniestweaks.voiceexpanded.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SoundUtilsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "CitizenWindowMixin",
+    "CitizenWindowScaleMixin"
+  ]
+}

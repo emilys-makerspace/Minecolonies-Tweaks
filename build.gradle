@@ -3,7 +3,7 @@ plugins {
     id 'net.neoforged.moddev' version '2.0.148'
 }
 
-group = 'dev.minecoloniestweaks'
+group = 'ca.emilybelnavis.mcmods.minecolonies-tweaks'
 version = mod_version
 base.archivesName = "minecolonies-tweaks-${minecraft_version}"
 
@@ -58,6 +58,7 @@ neoForge {
     }
 }
 neoForge.addModdingDependenciesTo(sourceSets.smoke)
+neoForge.addModdingDependenciesTo(sourceSets.test)
 
 dependencies {
     // Explicit artifacts omit upstream development dependencies. These mods are never bundled.
@@ -96,6 +97,7 @@ tasks.named('test') { useJUnitPlatform() }
 tasks.named('jar') {
     from('LICENSE')
     from('NOTICE.md')
+    from('licenses') { into 'licenses' }
 }
 tasks.named('runSmoke') {
     doFirst { delete file('run-smoke/smoke-result.txt') }

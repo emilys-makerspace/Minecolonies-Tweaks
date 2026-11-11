@@ -1,0 +1,1957 @@
+{
+  "mark_en.general": {
+    "sounds": [
+      "voiceexpanded:mark_en/general"
+    ]
+  },
+  "mark_en.noise": {
+    "sounds": [
+      "voiceexpanded:mark_en/noise"
+    ]
+  },
+  "mark_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:mark_en/gotobed"
+    ]
+  },
+  "mark_en.badweather": {
+    "sounds": [
+      "voiceexpanded:mark_en/badweather"
+    ]
+  },
+  "mark_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:mark_en/lowsaturation"
+    ]
+  },
+  "mark_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:mark_en/highsaturation"
+    ]
+  },
+  "mark_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:mark_en/badhousing"
+    ]
+  },
+  "mark_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:mark_en/goodhousing"
+    ]
+  },
+  "mark_en.greeting": {
+    "sounds": [
+      "voiceexpanded:mark_en/greeting"
+    ]
+  },
+  "mark_en.farewell": {
+    "sounds": [
+      "voiceexpanded:mark_en/farewell"
+    ]
+  },
+  "mark_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:mark_en/missingequipment"
+    ]
+  },
+  "mark_en.happy": {
+    "sounds": [
+      "voiceexpanded:mark_en/happy"
+    ]
+  },
+  "mark_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:mark_en/unhappy"
+    ]
+  },
+  "mark_en.sick": {
+    "sounds": [
+      "voiceexpanded:mark_en/sick"
+    ]
+  },
+  "mark_en.interaction": {
+    "sounds": [
+      "voiceexpanded:mark_en/interaction"
+    ]
+  },
+  "mark_en.success": {
+    "sounds": [
+      "voiceexpanded:mark_en/success"
+    ]
+  },
+  "mark_en.danger": {
+    "sounds": [
+      "voiceexpanded:mark_en/danger"
+    ]
+  },
+  "carolina_en.general": {
+    "sounds": [
+      "voiceexpanded:carolina_en/general"
+    ]
+  },
+  "carolina_en.noise": {
+    "sounds": [
+      "voiceexpanded:carolina_en/noise"
+    ]
+  },
+  "carolina_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:carolina_en/gotobed"
+    ]
+  },
+  "carolina_en.badweather": {
+    "sounds": [
+      "voiceexpanded:carolina_en/badweather"
+    ]
+  },
+  "carolina_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:carolina_en/lowsaturation"
+    ]
+  },
+  "carolina_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:carolina_en/highsaturation"
+    ]
+  },
+  "carolina_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:carolina_en/badhousing"
+    ]
+  },
+  "carolina_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:carolina_en/goodhousing"
+    ]
+  },
+  "carolina_en.greeting": {
+    "sounds": [
+      "voiceexpanded:carolina_en/greeting"
+    ]
+  },
+  "carolina_en.farewell": {
+    "sounds": [
+      "voiceexpanded:carolina_en/farewell"
+    ]
+  },
+  "carolina_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:carolina_en/missingequipment"
+    ]
+  },
+  "carolina_en.happy": {
+    "sounds": [
+      "voiceexpanded:carolina_en/happy"
+    ]
+  },
+  "carolina_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:carolina_en/unhappy"
+    ]
+  },
+  "carolina_en.sick": {
+    "sounds": [
+      "voiceexpanded:carolina_en/sick"
+    ]
+  },
+  "carolina_en.interaction": {
+    "sounds": [
+      "voiceexpanded:carolina_en/interaction"
+    ]
+  },
+  "carolina_en.success": {
+    "sounds": [
+      "voiceexpanded:carolina_en/success"
+    ]
+  },
+  "carolina_en.danger": {
+    "sounds": [
+      "voiceexpanded:carolina_en/danger"
+    ]
+  },
+  "becca_en.general": {
+    "sounds": [
+      "voiceexpanded:becca_en/general"
+    ]
+  },
+  "becca_en.noise": {
+    "sounds": [
+      "voiceexpanded:becca_en/noise"
+    ]
+  },
+  "becca_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:becca_en/gotobed"
+    ]
+  },
+  "becca_en.badweather": {
+    "sounds": [
+      "voiceexpanded:becca_en/badweather"
+    ]
+  },
+  "becca_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:becca_en/lowsaturation"
+    ]
+  },
+  "becca_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:becca_en/highsaturation"
+    ]
+  },
+  "becca_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:becca_en/badhousing"
+    ]
+  },
+  "becca_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:becca_en/goodhousing"
+    ]
+  },
+  "becca_en.greeting": {
+    "sounds": [
+      "voiceexpanded:becca_en/greeting"
+    ]
+  },
+  "becca_en.farewell": {
+    "sounds": [
+      "voiceexpanded:becca_en/farewell"
+    ]
+  },
+  "becca_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:becca_en/missingequipment"
+    ]
+  },
+  "becca_en.happy": {
+    "sounds": [
+      "voiceexpanded:becca_en/happy"
+    ]
+  },
+  "becca_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:becca_en/unhappy"
+    ]
+  },
+  "becca_en.sick": {
+    "sounds": [
+      "voiceexpanded:becca_en/sick"
+    ]
+  },
+  "becca_en.interaction": {
+    "sounds": [
+      "voiceexpanded:becca_en/interaction"
+    ]
+  },
+  "becca_en.success": {
+    "sounds": [
+      "voiceexpanded:becca_en/success"
+    ]
+  },
+  "becca_en.danger": {
+    "sounds": [
+      "voiceexpanded:becca_en/danger"
+    ]
+  },
+  "emily_en.general": {
+    "sounds": [
+      "voiceexpanded:emily_en/general"
+    ]
+  },
+  "emily_en.noise": {
+    "sounds": [
+      "voiceexpanded:emily_en/noise"
+    ]
+  },
+  "emily_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:emily_en/gotobed"
+    ]
+  },
+  "emily_en.badweather": {
+    "sounds": [
+      "voiceexpanded:emily_en/badweather"
+    ]
+  },
+  "emily_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:emily_en/lowsaturation"
+    ]
+  },
+  "emily_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:emily_en/highsaturation"
+    ]
+  },
+  "emily_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:emily_en/badhousing"
+    ]
+  },
+  "emily_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:emily_en/goodhousing"
+    ]
+  },
+  "emily_en.greeting": {
+    "sounds": [
+      "voiceexpanded:emily_en/greeting"
+    ]
+  },
+  "emily_en.farewell": {
+    "sounds": [
+      "voiceexpanded:emily_en/farewell"
+    ]
+  },
+  "emily_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:emily_en/missingequipment"
+    ]
+  },
+  "emily_en.happy": {
+    "sounds": [
+      "voiceexpanded:emily_en/happy"
+    ]
+  },
+  "emily_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:emily_en/unhappy"
+    ]
+  },
+  "emily_en.sick": {
+    "sounds": [
+      "voiceexpanded:emily_en/sick"
+    ]
+  },
+  "emily_en.interaction": {
+    "sounds": [
+      "voiceexpanded:emily_en/interaction"
+    ]
+  },
+  "emily_en.success": {
+    "sounds": [
+      "voiceexpanded:emily_en/success"
+    ]
+  },
+  "emily_en.danger": {
+    "sounds": [
+      "voiceexpanded:emily_en/danger"
+    ]
+  },
+  "scotty_en.general": {
+    "sounds": [
+      "voiceexpanded:scotty_en/general"
+    ]
+  },
+  "scotty_en.noise": {
+    "sounds": [
+      "voiceexpanded:scotty_en/noise"
+    ]
+  },
+  "scotty_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:scotty_en/gotobed"
+    ]
+  },
+  "scotty_en.badweather": {
+    "sounds": [
+      "voiceexpanded:scotty_en/badweather"
+    ]
+  },
+  "scotty_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:scotty_en/lowsaturation"
+    ]
+  },
+  "scotty_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:scotty_en/highsaturation"
+    ]
+  },
+  "scotty_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:scotty_en/badhousing"
+    ]
+  },
+  "scotty_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:scotty_en/goodhousing"
+    ]
+  },
+  "scotty_en.greeting": {
+    "sounds": [
+      "voiceexpanded:scotty_en/greeting"
+    ]
+  },
+  "scotty_en.farewell": {
+    "sounds": [
+      "voiceexpanded:scotty_en/farewell"
+    ]
+  },
+  "scotty_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:scotty_en/missingequipment"
+    ]
+  },
+  "scotty_en.happy": {
+    "sounds": [
+      "voiceexpanded:scotty_en/happy"
+    ]
+  },
+  "scotty_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:scotty_en/unhappy"
+    ]
+  },
+  "scotty_en.sick": {
+    "sounds": [
+      "voiceexpanded:scotty_en/sick"
+    ]
+  },
+  "scotty_en.interaction": {
+    "sounds": [
+      "voiceexpanded:scotty_en/interaction"
+    ]
+  },
+  "scotty_en.success": {
+    "sounds": [
+      "voiceexpanded:scotty_en/success"
+    ]
+  },
+  "scotty_en.danger": {
+    "sounds": [
+      "voiceexpanded:scotty_en/danger"
+    ]
+  },
+  "brittney_en.general": {
+    "sounds": [
+      "voiceexpanded:brittney_en/general"
+    ]
+  },
+  "brittney_en.noise": {
+    "sounds": [
+      "voiceexpanded:brittney_en/noise"
+    ]
+  },
+  "brittney_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:brittney_en/gotobed"
+    ]
+  },
+  "brittney_en.badweather": {
+    "sounds": [
+      "voiceexpanded:brittney_en/badweather"
+    ]
+  },
+  "brittney_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:brittney_en/lowsaturation"
+    ]
+  },
+  "brittney_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:brittney_en/highsaturation"
+    ]
+  },
+  "brittney_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:brittney_en/badhousing"
+    ]
+  },
+  "brittney_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:brittney_en/goodhousing"
+    ]
+  },
+  "brittney_en.greeting": {
+    "sounds": [
+      "voiceexpanded:brittney_en/greeting"
+    ]
+  },
+  "brittney_en.farewell": {
+    "sounds": [
+      "voiceexpanded:brittney_en/farewell"
+    ]
+  },
+  "brittney_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:brittney_en/missingequipment"
+    ]
+  },
+  "brittney_en.happy": {
+    "sounds": [
+      "voiceexpanded:brittney_en/happy"
+    ]
+  },
+  "brittney_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:brittney_en/unhappy"
+    ]
+  },
+  "brittney_en.sick": {
+    "sounds": [
+      "voiceexpanded:brittney_en/sick"
+    ]
+  },
+  "brittney_en.interaction": {
+    "sounds": [
+      "voiceexpanded:brittney_en/interaction"
+    ]
+  },
+  "brittney_en.success": {
+    "sounds": [
+      "voiceexpanded:brittney_en/success"
+    ]
+  },
+  "brittney_en.danger": {
+    "sounds": [
+      "voiceexpanded:brittney_en/danger"
+    ]
+  },
+  "patrick_fr.general": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/general"
+    ]
+  },
+  "patrick_fr.noise": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/noise"
+    ]
+  },
+  "patrick_fr.gotobed": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/gotobed"
+    ]
+  },
+  "patrick_fr.badweather": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/badweather"
+    ]
+  },
+  "patrick_fr.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/lowsaturation"
+    ]
+  },
+  "patrick_fr.highsaturation": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/highsaturation"
+    ]
+  },
+  "patrick_fr.badhousing": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/badhousing"
+    ]
+  },
+  "patrick_fr.goodhousing": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/goodhousing"
+    ]
+  },
+  "patrick_fr.greeting": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/greeting"
+    ]
+  },
+  "patrick_fr.farewell": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/farewell"
+    ]
+  },
+  "patrick_fr.missingequipment": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/missingequipment"
+    ]
+  },
+  "patrick_fr.happy": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/happy"
+    ]
+  },
+  "patrick_fr.unhappy": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/unhappy"
+    ]
+  },
+  "patrick_fr.sick": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/sick"
+    ]
+  },
+  "patrick_fr.interaction": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/interaction"
+    ]
+  },
+  "patrick_fr.success": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/success"
+    ]
+  },
+  "patrick_fr.danger": {
+    "sounds": [
+      "voiceexpanded:patrick_fr/danger"
+    ]
+  },
+  "patrick_en.general": {
+    "sounds": [
+      "voiceexpanded:patrick_en/general"
+    ]
+  },
+  "patrick_en.noise": {
+    "sounds": [
+      "voiceexpanded:patrick_en/noise"
+    ]
+  },
+  "patrick_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:patrick_en/gotobed"
+    ]
+  },
+  "patrick_en.badweather": {
+    "sounds": [
+      "voiceexpanded:patrick_en/badweather"
+    ]
+  },
+  "patrick_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:patrick_en/lowsaturation"
+    ]
+  },
+  "patrick_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:patrick_en/highsaturation"
+    ]
+  },
+  "patrick_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:patrick_en/badhousing"
+    ]
+  },
+  "patrick_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:patrick_en/goodhousing"
+    ]
+  },
+  "patrick_en.greeting": {
+    "sounds": [
+      "voiceexpanded:patrick_en/greeting"
+    ]
+  },
+  "patrick_en.farewell": {
+    "sounds": [
+      "voiceexpanded:patrick_en/farewell"
+    ]
+  },
+  "patrick_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:patrick_en/missingequipment"
+    ]
+  },
+  "patrick_en.happy": {
+    "sounds": [
+      "voiceexpanded:patrick_en/happy"
+    ]
+  },
+  "patrick_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:patrick_en/unhappy"
+    ]
+  },
+  "patrick_en.sick": {
+    "sounds": [
+      "voiceexpanded:patrick_en/sick"
+    ]
+  },
+  "patrick_en.interaction": {
+    "sounds": [
+      "voiceexpanded:patrick_en/interaction"
+    ]
+  },
+  "patrick_en.success": {
+    "sounds": [
+      "voiceexpanded:patrick_en/success"
+    ]
+  },
+  "patrick_en.danger": {
+    "sounds": [
+      "voiceexpanded:patrick_en/danger"
+    ]
+  },
+  "marie_line_fr.general": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/general"
+    ]
+  },
+  "marie_line_fr.noise": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/noise"
+    ]
+  },
+  "marie_line_fr.gotobed": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/gotobed"
+    ]
+  },
+  "marie_line_fr.badweather": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/badweather"
+    ]
+  },
+  "marie_line_fr.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/lowsaturation"
+    ]
+  },
+  "marie_line_fr.highsaturation": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/highsaturation"
+    ]
+  },
+  "marie_line_fr.badhousing": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/badhousing"
+    ]
+  },
+  "marie_line_fr.goodhousing": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/goodhousing"
+    ]
+  },
+  "marie_line_fr.greeting": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/greeting"
+    ]
+  },
+  "marie_line_fr.farewell": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/farewell"
+    ]
+  },
+  "marie_line_fr.missingequipment": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/missingequipment"
+    ]
+  },
+  "marie_line_fr.happy": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/happy"
+    ]
+  },
+  "marie_line_fr.unhappy": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/unhappy"
+    ]
+  },
+  "marie_line_fr.sick": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/sick"
+    ]
+  },
+  "marie_line_fr.interaction": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/interaction"
+    ]
+  },
+  "marie_line_fr.success": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/success"
+    ]
+  },
+  "marie_line_fr.danger": {
+    "sounds": [
+      "voiceexpanded:marie_line_fr/danger"
+    ]
+  },
+  "marie_line_en.general": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/general"
+    ]
+  },
+  "marie_line_en.noise": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/noise"
+    ]
+  },
+  "marie_line_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/gotobed"
+    ]
+  },
+  "marie_line_en.badweather": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/badweather"
+    ]
+  },
+  "marie_line_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/lowsaturation"
+    ]
+  },
+  "marie_line_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/highsaturation"
+    ]
+  },
+  "marie_line_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/badhousing"
+    ]
+  },
+  "marie_line_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/goodhousing"
+    ]
+  },
+  "marie_line_en.greeting": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/greeting"
+    ]
+  },
+  "marie_line_en.farewell": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/farewell"
+    ]
+  },
+  "marie_line_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/missingequipment"
+    ]
+  },
+  "marie_line_en.happy": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/happy"
+    ]
+  },
+  "marie_line_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/unhappy"
+    ]
+  },
+  "marie_line_en.sick": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/sick"
+    ]
+  },
+  "marie_line_en.interaction": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/interaction"
+    ]
+  },
+  "marie_line_en.success": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/success"
+    ]
+  },
+  "marie_line_en.danger": {
+    "sounds": [
+      "voiceexpanded:marie_line_en/danger"
+    ]
+  },
+  "claudia_fr.general": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/general"
+    ]
+  },
+  "claudia_fr.noise": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/noise"
+    ]
+  },
+  "claudia_fr.gotobed": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/gotobed"
+    ]
+  },
+  "claudia_fr.badweather": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/badweather"
+    ]
+  },
+  "claudia_fr.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/lowsaturation"
+    ]
+  },
+  "claudia_fr.highsaturation": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/highsaturation"
+    ]
+  },
+  "claudia_fr.badhousing": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/badhousing"
+    ]
+  },
+  "claudia_fr.goodhousing": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/goodhousing"
+    ]
+  },
+  "claudia_fr.greeting": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/greeting"
+    ]
+  },
+  "claudia_fr.farewell": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/farewell"
+    ]
+  },
+  "claudia_fr.missingequipment": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/missingequipment"
+    ]
+  },
+  "claudia_fr.happy": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/happy"
+    ]
+  },
+  "claudia_fr.unhappy": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/unhappy"
+    ]
+  },
+  "claudia_fr.sick": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/sick"
+    ]
+  },
+  "claudia_fr.interaction": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/interaction"
+    ]
+  },
+  "claudia_fr.success": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/success"
+    ]
+  },
+  "claudia_fr.danger": {
+    "sounds": [
+      "voiceexpanded:claudia_fr/danger"
+    ]
+  },
+  "claudia_en.general": {
+    "sounds": [
+      "voiceexpanded:claudia_en/general"
+    ]
+  },
+  "claudia_en.noise": {
+    "sounds": [
+      "voiceexpanded:claudia_en/noise"
+    ]
+  },
+  "claudia_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:claudia_en/gotobed"
+    ]
+  },
+  "claudia_en.badweather": {
+    "sounds": [
+      "voiceexpanded:claudia_en/badweather"
+    ]
+  },
+  "claudia_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:claudia_en/lowsaturation"
+    ]
+  },
+  "claudia_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:claudia_en/highsaturation"
+    ]
+  },
+  "claudia_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:claudia_en/badhousing"
+    ]
+  },
+  "claudia_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:claudia_en/goodhousing"
+    ]
+  },
+  "claudia_en.greeting": {
+    "sounds": [
+      "voiceexpanded:claudia_en/greeting"
+    ]
+  },
+  "claudia_en.farewell": {
+    "sounds": [
+      "voiceexpanded:claudia_en/farewell"
+    ]
+  },
+  "claudia_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:claudia_en/missingequipment"
+    ]
+  },
+  "claudia_en.happy": {
+    "sounds": [
+      "voiceexpanded:claudia_en/happy"
+    ]
+  },
+  "claudia_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:claudia_en/unhappy"
+    ]
+  },
+  "claudia_en.sick": {
+    "sounds": [
+      "voiceexpanded:claudia_en/sick"
+    ]
+  },
+  "claudia_en.interaction": {
+    "sounds": [
+      "voiceexpanded:claudia_en/interaction"
+    ]
+  },
+  "claudia_en.success": {
+    "sounds": [
+      "voiceexpanded:claudia_en/success"
+    ]
+  },
+  "claudia_en.danger": {
+    "sounds": [
+      "voiceexpanded:claudia_en/danger"
+    ]
+  },
+  "julie_fr.general": {
+    "sounds": [
+      "voiceexpanded:julie_fr/general"
+    ]
+  },
+  "julie_fr.noise": {
+    "sounds": [
+      "voiceexpanded:julie_fr/noise"
+    ]
+  },
+  "julie_fr.gotobed": {
+    "sounds": [
+      "voiceexpanded:julie_fr/gotobed"
+    ]
+  },
+  "julie_fr.badweather": {
+    "sounds": [
+      "voiceexpanded:julie_fr/badweather"
+    ]
+  },
+  "julie_fr.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:julie_fr/lowsaturation"
+    ]
+  },
+  "julie_fr.highsaturation": {
+    "sounds": [
+      "voiceexpanded:julie_fr/highsaturation"
+    ]
+  },
+  "julie_fr.badhousing": {
+    "sounds": [
+      "voiceexpanded:julie_fr/badhousing"
+    ]
+  },
+  "julie_fr.goodhousing": {
+    "sounds": [
+      "voiceexpanded:julie_fr/goodhousing"
+    ]
+  },
+  "julie_fr.greeting": {
+    "sounds": [
+      "voiceexpanded:julie_fr/greeting"
+    ]
+  },
+  "julie_fr.farewell": {
+    "sounds": [
+      "voiceexpanded:julie_fr/farewell"
+    ]
+  },
+  "julie_fr.missingequipment": {
+    "sounds": [
+      "voiceexpanded:julie_fr/missingequipment"
+    ]
+  },
+  "julie_fr.happy": {
+    "sounds": [
+      "voiceexpanded:julie_fr/happy"
+    ]
+  },
+  "julie_fr.unhappy": {
+    "sounds": [
+      "voiceexpanded:julie_fr/unhappy"
+    ]
+  },
+  "julie_fr.sick": {
+    "sounds": [
+      "voiceexpanded:julie_fr/sick"
+    ]
+  },
+  "julie_fr.interaction": {
+    "sounds": [
+      "voiceexpanded:julie_fr/interaction"
+    ]
+  },
+  "julie_fr.success": {
+    "sounds": [
+      "voiceexpanded:julie_fr/success"
+    ]
+  },
+  "julie_fr.danger": {
+    "sounds": [
+      "voiceexpanded:julie_fr/danger"
+    ]
+  },
+  "julie_en.general": {
+    "sounds": [
+      "voiceexpanded:julie_en/general"
+    ]
+  },
+  "julie_en.noise": {
+    "sounds": [
+      "voiceexpanded:julie_en/noise"
+    ]
+  },
+  "julie_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:julie_en/gotobed"
+    ]
+  },
+  "julie_en.badweather": {
+    "sounds": [
+      "voiceexpanded:julie_en/badweather"
+    ]
+  },
+  "julie_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:julie_en/lowsaturation"
+    ]
+  },
+  "julie_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:julie_en/highsaturation"
+    ]
+  },
+  "julie_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:julie_en/badhousing"
+    ]
+  },
+  "julie_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:julie_en/goodhousing"
+    ]
+  },
+  "julie_en.greeting": {
+    "sounds": [
+      "voiceexpanded:julie_en/greeting"
+    ]
+  },
+  "julie_en.farewell": {
+    "sounds": [
+      "voiceexpanded:julie_en/farewell"
+    ]
+  },
+  "julie_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:julie_en/missingequipment"
+    ]
+  },
+  "julie_en.happy": {
+    "sounds": [
+      "voiceexpanded:julie_en/happy"
+    ]
+  },
+  "julie_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:julie_en/unhappy"
+    ]
+  },
+  "julie_en.sick": {
+    "sounds": [
+      "voiceexpanded:julie_en/sick"
+    ]
+  },
+  "julie_en.interaction": {
+    "sounds": [
+      "voiceexpanded:julie_en/interaction"
+    ]
+  },
+  "julie_en.success": {
+    "sounds": [
+      "voiceexpanded:julie_en/success"
+    ]
+  },
+  "julie_en.danger": {
+    "sounds": [
+      "voiceexpanded:julie_en/danger"
+    ]
+  },
+  "kasandra_fr.general": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/general"
+    ]
+  },
+  "kasandra_fr.noise": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/noise"
+    ]
+  },
+  "kasandra_fr.gotobed": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/gotobed"
+    ]
+  },
+  "kasandra_fr.badweather": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/badweather"
+    ]
+  },
+  "kasandra_fr.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/lowsaturation"
+    ]
+  },
+  "kasandra_fr.highsaturation": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/highsaturation"
+    ]
+  },
+  "kasandra_fr.badhousing": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/badhousing"
+    ]
+  },
+  "kasandra_fr.goodhousing": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/goodhousing"
+    ]
+  },
+  "kasandra_fr.greeting": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/greeting"
+    ]
+  },
+  "kasandra_fr.farewell": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/farewell"
+    ]
+  },
+  "kasandra_fr.missingequipment": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/missingequipment"
+    ]
+  },
+  "kasandra_fr.happy": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/happy"
+    ]
+  },
+  "kasandra_fr.unhappy": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/unhappy"
+    ]
+  },
+  "kasandra_fr.sick": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/sick"
+    ]
+  },
+  "kasandra_fr.interaction": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/interaction"
+    ]
+  },
+  "kasandra_fr.success": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/success"
+    ]
+  },
+  "kasandra_fr.danger": {
+    "sounds": [
+      "voiceexpanded:kasandra_fr/danger"
+    ]
+  },
+  "kasandra_en.general": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/general"
+    ]
+  },
+  "kasandra_en.noise": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/noise"
+    ]
+  },
+  "kasandra_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/gotobed"
+    ]
+  },
+  "kasandra_en.badweather": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/badweather"
+    ]
+  },
+  "kasandra_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/lowsaturation"
+    ]
+  },
+  "kasandra_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/highsaturation"
+    ]
+  },
+  "kasandra_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/badhousing"
+    ]
+  },
+  "kasandra_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/goodhousing"
+    ]
+  },
+  "kasandra_en.greeting": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/greeting"
+    ]
+  },
+  "kasandra_en.farewell": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/farewell"
+    ]
+  },
+  "kasandra_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/missingequipment"
+    ]
+  },
+  "kasandra_en.happy": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/happy"
+    ]
+  },
+  "kasandra_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/unhappy"
+    ]
+  },
+  "kasandra_en.sick": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/sick"
+    ]
+  },
+  "kasandra_en.interaction": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/interaction"
+    ]
+  },
+  "kasandra_en.success": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/success"
+    ]
+  },
+  "kasandra_en.danger": {
+    "sounds": [
+      "voiceexpanded:kasandra_en/danger"
+    ]
+  },
+  "alex_en.general": {
+    "sounds": [
+      "voiceexpanded:alex_en/general"
+    ]
+  },
+  "alex_en.noise": {
+    "sounds": [
+      "voiceexpanded:alex_en/noise"
+    ]
+  },
+  "alex_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:alex_en/gotobed"
+    ]
+  },
+  "alex_en.badweather": {
+    "sounds": [
+      "voiceexpanded:alex_en/badweather"
+    ]
+  },
+  "alex_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:alex_en/lowsaturation"
+    ]
+  },
+  "alex_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:alex_en/highsaturation"
+    ]
+  },
+  "alex_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:alex_en/badhousing"
+    ]
+  },
+  "alex_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:alex_en/goodhousing"
+    ]
+  },
+  "alex_en.greeting": {
+    "sounds": [
+      "voiceexpanded:alex_en/greeting"
+    ]
+  },
+  "alex_en.farewell": {
+    "sounds": [
+      "voiceexpanded:alex_en/farewell"
+    ]
+  },
+  "alex_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:alex_en/missingequipment"
+    ]
+  },
+  "alex_en.happy": {
+    "sounds": [
+      "voiceexpanded:alex_en/happy"
+    ]
+  },
+  "alex_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:alex_en/unhappy"
+    ]
+  },
+  "alex_en.sick": {
+    "sounds": [
+      "voiceexpanded:alex_en/sick"
+    ]
+  },
+  "alex_en.interaction": {
+    "sounds": [
+      "voiceexpanded:alex_en/interaction"
+    ]
+  },
+  "alex_en.success": {
+    "sounds": [
+      "voiceexpanded:alex_en/success"
+    ]
+  },
+  "alex_en.danger": {
+    "sounds": [
+      "voiceexpanded:alex_en/danger"
+    ]
+  },
+  "mathieu_fr.general": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/general"
+    ]
+  },
+  "mathieu_fr.noise": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/noise"
+    ]
+  },
+  "mathieu_fr.gotobed": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/gotobed"
+    ]
+  },
+  "mathieu_fr.badweather": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/badweather"
+    ]
+  },
+  "mathieu_fr.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/lowsaturation"
+    ]
+  },
+  "mathieu_fr.highsaturation": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/highsaturation"
+    ]
+  },
+  "mathieu_fr.badhousing": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/badhousing"
+    ]
+  },
+  "mathieu_fr.goodhousing": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/goodhousing"
+    ]
+  },
+  "mathieu_fr.greeting": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/greeting"
+    ]
+  },
+  "mathieu_fr.farewell": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/farewell"
+    ]
+  },
+  "mathieu_fr.missingequipment": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/missingequipment"
+    ]
+  },
+  "mathieu_fr.happy": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/happy"
+    ]
+  },
+  "mathieu_fr.unhappy": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/unhappy"
+    ]
+  },
+  "mathieu_fr.sick": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/sick"
+    ]
+  },
+  "mathieu_fr.interaction": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/interaction"
+    ]
+  },
+  "mathieu_fr.success": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/success"
+    ]
+  },
+  "mathieu_fr.danger": {
+    "sounds": [
+      "voiceexpanded:mathieu_fr/danger"
+    ]
+  },
+  "mathieu_en.general": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/general"
+    ]
+  },
+  "mathieu_en.noise": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/noise"
+    ]
+  },
+  "mathieu_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/gotobed"
+    ]
+  },
+  "mathieu_en.badweather": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/badweather"
+    ]
+  },
+  "mathieu_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/lowsaturation"
+    ]
+  },
+  "mathieu_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/highsaturation"
+    ]
+  },
+  "mathieu_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/badhousing"
+    ]
+  },
+  "mathieu_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/goodhousing"
+    ]
+  },
+  "mathieu_en.greeting": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/greeting"
+    ]
+  },
+  "mathieu_en.farewell": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/farewell"
+    ]
+  },
+  "mathieu_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/missingequipment"
+    ]
+  },
+  "mathieu_en.happy": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/happy"
+    ]
+  },
+  "mathieu_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/unhappy"
+    ]
+  },
+  "mathieu_en.sick": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/sick"
+    ]
+  },
+  "mathieu_en.interaction": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/interaction"
+    ]
+  },
+  "mathieu_en.success": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/success"
+    ]
+  },
+  "mathieu_en.danger": {
+    "sounds": [
+      "voiceexpanded:mathieu_en/danger"
+    ]
+  },
+  "frederic_fr.general": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/general"
+    ]
+  },
+  "frederic_fr.noise": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/noise"
+    ]
+  },
+  "frederic_fr.gotobed": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/gotobed"
+    ]
+  },
+  "frederic_fr.badweather": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/badweather"
+    ]
+  },
+  "frederic_fr.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/lowsaturation"
+    ]
+  },
+  "frederic_fr.highsaturation": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/highsaturation"
+    ]
+  },
+  "frederic_fr.badhousing": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/badhousing"
+    ]
+  },
+  "frederic_fr.goodhousing": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/goodhousing"
+    ]
+  },
+  "frederic_fr.greeting": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/greeting"
+    ]
+  },
+  "frederic_fr.farewell": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/farewell"
+    ]
+  },
+  "frederic_fr.missingequipment": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/missingequipment"
+    ]
+  },
+  "frederic_fr.happy": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/happy"
+    ]
+  },
+  "frederic_fr.unhappy": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/unhappy"
+    ]
+  },
+  "frederic_fr.sick": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/sick"
+    ]
+  },
+  "frederic_fr.interaction": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/interaction"
+    ]
+  },
+  "frederic_fr.success": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/success"
+    ]
+  },
+  "frederic_fr.danger": {
+    "sounds": [
+      "voiceexpanded:frederic_fr/danger"
+    ]
+  },
+  "frederic_en.general": {
+    "sounds": [
+      "voiceexpanded:frederic_en/general"
+    ]
+  },
+  "frederic_en.noise": {
+    "sounds": [
+      "voiceexpanded:frederic_en/noise"
+    ]
+  },
+  "frederic_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:frederic_en/gotobed"
+    ]
+  },
+  "frederic_en.badweather": {
+    "sounds": [
+      "voiceexpanded:frederic_en/badweather"
+    ]
+  },
+  "frederic_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:frederic_en/lowsaturation"
+    ]
+  },
+  "frederic_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:frederic_en/highsaturation"
+    ]
+  },
+  "frederic_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:frederic_en/badhousing"
+    ]
+  },
+  "frederic_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:frederic_en/goodhousing"
+    ]
+  },
+  "frederic_en.greeting": {
+    "sounds": [
+      "voiceexpanded:frederic_en/greeting"
+    ]
+  },
+  "frederic_en.farewell": {
+    "sounds": [
+      "voiceexpanded:frederic_en/farewell"
+    ]
+  },
+  "frederic_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:frederic_en/missingequipment"
+    ]
+  },
+  "frederic_en.happy": {
+    "sounds": [
+      "voiceexpanded:frederic_en/happy"
+    ]
+  },
+  "frederic_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:frederic_en/unhappy"
+    ]
+  },
+  "frederic_en.sick": {
+    "sounds": [
+      "voiceexpanded:frederic_en/sick"
+    ]
+  },
+  "frederic_en.interaction": {
+    "sounds": [
+      "voiceexpanded:frederic_en/interaction"
+    ]
+  },
+  "frederic_en.success": {
+    "sounds": [
+      "voiceexpanded:frederic_en/success"
+    ]
+  },
+  "frederic_en.danger": {
+    "sounds": [
+      "voiceexpanded:frederic_en/danger"
+    ]
+  },
+  "jerry_b_en.general": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/general"
+    ]
+  },
+  "jerry_b_en.noise": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/noise"
+    ]
+  },
+  "jerry_b_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/gotobed"
+    ]
+  },
+  "jerry_b_en.badweather": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/badweather"
+    ]
+  },
+  "jerry_b_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/lowsaturation"
+    ]
+  },
+  "jerry_b_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/highsaturation"
+    ]
+  },
+  "jerry_b_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/badhousing"
+    ]
+  },
+  "jerry_b_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/goodhousing"
+    ]
+  },
+  "jerry_b_en.greeting": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/greeting"
+    ]
+  },
+  "jerry_b_en.farewell": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/farewell"
+    ]
+  },
+  "jerry_b_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/missingequipment"
+    ]
+  },
+  "jerry_b_en.happy": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/happy"
+    ]
+  },
+  "jerry_b_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/unhappy"
+    ]
+  },
+  "jerry_b_en.sick": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/sick"
+    ]
+  },
+  "jerry_b_en.interaction": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/interaction"
+    ]
+  },
+  "jerry_b_en.success": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/success"
+    ]
+  },
+  "jerry_b_en.danger": {
+    "sounds": [
+      "voiceexpanded:jerry_b_en/danger"
+    ]
+  },
+  "chadwitch_en.general": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/general"
+    ]
+  },
+  "chadwitch_en.noise": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/noise"
+    ]
+  },
+  "chadwitch_en.gotobed": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/gotobed"
+    ]
+  },
+  "chadwitch_en.badweather": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/badweather"
+    ]
+  },
+  "chadwitch_en.lowsaturation": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/lowsaturation"
+    ]
+  },
+  "chadwitch_en.highsaturation": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/highsaturation"
+    ]
+  },
+  "chadwitch_en.badhousing": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/badhousing"
+    ]
+  },
+  "chadwitch_en.goodhousing": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/goodhousing"
+    ]
+  },
+  "chadwitch_en.greeting": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/greeting"
+    ]
+  },
+  "chadwitch_en.farewell": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/farewell"
+    ]
+  },
+  "chadwitch_en.missingequipment": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/missingequipment"
+    ]
+  },
+  "chadwitch_en.happy": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/happy"
+    ]
+  },
+  "chadwitch_en.unhappy": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/unhappy"
+    ]
+  },
+  "chadwitch_en.sick": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/sick"
+    ]
+  },
+  "chadwitch_en.interaction": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/interaction"
+    ]
+  },
+  "chadwitch_en.success": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/success"
+    ]
+  },
+  "chadwitch_en.danger": {
+    "sounds": [
+      "voiceexpanded:chadwitch_en/danger"
+    ]
+  }
+}

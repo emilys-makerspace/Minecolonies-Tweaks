@@ -1151,5 +1151,10 @@
   "minecoloniestweaks.names.list.dwarves": "Nains",
   "minecoloniestweaks.names.list.orcs": "Orcs",
   "minecoloniestweaks.hut.res.supply_all": "Tout fournir",
-  "minecoloniestweaks.hut.res.supply_all_hint": "Fournit à cette cabane tous les objets nécessaires que vous transportez."
+  "minecoloniestweaks.hut.res.supply_all_hint": "Fournit à cette cabane tous les objets nécessaires que vous transportez.",
+  "minecoloniestweaks.citizen.voice": "Voix et langue",
+  "minecoloniestweaks.citizen.voice_button": "Voix",
+  "minecoloniestweaks.voice.random": "Voix aléatoire",
+  "minecoloniestweaks.voice.previous": "Page précédente",
+  "minecoloniestweaks.voice.next": "Page suivante"
 }

@@ -18,13 +18,17 @@ Addon for MineColonies that redraws its windows as vanilla Minecraft screens.
 - Citizen, town hall, hut and university screens, research trees, build tool, Architect's Cutter and every other MineColonies window, in the Minecraft Java style.
 - A permanent HUD showing the resources your builders still need (pin a Resource Scroll with J).
 - Beacon beams to find citizens, huts and graves.
+- English and French citizen voices, saved voice assignments and a voice/language picker.
 - Your own citizen name lists (built-in French and international lists, or your own).
 
-The screens are client side: every one can be switched off in the config (K). Custom citizen names also need the mod on the server (in single player, nothing more to do).
+The screens are client side: every one can be switched off in the config (K). Custom citizen names and expanded voices also need the mod on the server (in single player, nothing more to do).
 '''
 
 [[mixins]]
 config="${mod_id}.mixins.json"
+
+[[mixins]]
+config="voiceexpanded.mixins.json"
 
 [[dependencies.${mod_id}]]
     modId="neoforge"
@@ -47,3 +51,9 @@ config="${mod_id}.mixins.json"
     versionRange="${minecolonies_version_range}"
     ordering="AFTER"
     side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="voiceexpanded"
+type="incompatible"
+versionRange="[0,)"
+reason="Voice Expanded is included in MineColonies Tweaks; remove the standalone jar."

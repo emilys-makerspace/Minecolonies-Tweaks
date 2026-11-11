@@ -28,3 +28,12 @@ ignored `run-smoke/`; screenshots and logs are temporary evidence.
 Historical results are evidence, not current task instructions. See
 `history/VERIFICATION_HISTORY.md` when regression archaeology or release history requires them.
 
+
+## Voice integration — 2026-11-02
+
+- `./gradlew build tasks --all`: passed; six imported voice tests passed.
+- `./gradlew runClient --dry-run`: passed; main mod registration and required development dependencies remain configured.
+- `./gradlew runServerSmoke`: passed dedicated-server settings initialization.
+- Client launched through `runSmoke` and completed resource/audio initialization without logged errors. This checkout has no smoke source classes, so the client was stopped manually; this is startup evidence, not an automated gameplay smoke pass.
+- Release jar includes all 391 source OGG files, 23 catalogue sets, sound definitions, mixins, picker assets and the MIT notice. Source voice assets match the standalone project byte for byte; all sound references resolve to bundled audio.
+- Still requires a live colony check: trigger adult dialogue, manually choose a voice, reconnect/reload to confirm the assignment, and exercise the picker with the Tweaks citizen screen enabled and disabled.
