@@ -5,7 +5,6 @@ plugins {
 
 group = 'ca.emilybelnavis.mcmods.minecolonies-tweaks'
 version = mod_version
-base.archivesName = "minecolonies-tweaks-${minecraft_version}"
 
 java {
     toolchain.languageVersion = JavaLanguageVersion.of(21)
